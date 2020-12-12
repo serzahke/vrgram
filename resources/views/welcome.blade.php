@@ -20,7 +20,7 @@
             </div>
             <div class="col-md-6">
                 <div class="d-flex justify-content-center">
-                    <img src="img/gov.svg" alt="" class="w-75">
+                    <img src="img/gov.svg" alt="" class="w-100">
                 </div>
             </div>
         </div>
