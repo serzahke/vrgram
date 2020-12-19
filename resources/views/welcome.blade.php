@@ -7,16 +7,16 @@
             <div class="col-md-6">
                 <div class="my-4">
                     <h1>طراحی واقعیت مجازی و افزوده فرماندهی و کنترل عملیات پدافند هوایی</h1>
-                    <h4>Augmented Reality Community</h4>
+{{--                    <h4>Augmented Reality Community</h4>--}}
                 </div>
                 <div class="my-4">
                     <small>استاد راهنما:</small><p>جناب آقای فرجیان</p>
                     <small>پژوهش‌گر</small><p>آرمان کلهری</p>
                 </div>
                 <div style="height: 40px;"></div>
-                <div class="my-4">
-                    <a href="#" class="btn btn-info"> Gant Chart</a>
-                </div>
+{{--                <div class="my-4">--}}
+{{--                    <a href="#" class="btn btn-info"> Gant Chart</a>--}}
+{{--                </div>--}}
             </div>
             <div class="col-md-6">
                 <div class="d-flex justify-content-center">
