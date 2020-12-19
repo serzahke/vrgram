@@ -6,7 +6,7 @@
         <div class="row">
             <div class="col-md-6">
                 <div class="my-4">
-                    <h1>سیستم ارتباطات حداکثری بر پایه واقعیت افزوده</h1>
+                    <h1>طراحی واقعیت مجازی و افزوده فرماندهی و کنترل عملیات پدافند هوایی</h1>
                     <h4>Augmented Reality Community</h4>
                 </div>
                 <div class="my-4">
@@ -163,12 +163,89 @@
         <div>
             <div class="row">
                 <div class="col-md-12 my-4">
-                    <h1>اهداف پروژه</h1>
-                    <ul>
-                        <li>ارائه پلتفرمی دیجیتال که منبعی مناسب برای برداشت و توسعه طراحی سامانه‌های فرماندهی و کنترل باشد.</li>
-                        <li>جلوگیری از اختششات بصری و عدم یکپارچگی در نمود‌های بصری فرماندهی و کنترل.</li>
-                        <li>ارائه الگوهای طراحی از واقعیت مجازی ، واقعیت افزوده  و استفاده از این دو تکنولوژی در نمایش هر چه بهتر اطلاعات</li>
-                    </ul>
+                    <h1>Project ArtWorks</h1>
+                    <br>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <img src="img/Objects.png" alt="" class="w-100">
+                        </div>
+                    </div>
+                    <br>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <img src="img/Objects – 1.png" alt="" class="w-100">
+                        </div>
+                    </div>
+                    <br>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <img src="img/Objects – 2.png" alt="" class="w-100">
+                        </div>
+                    </div>
+                    <br>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <img src="img/Objects – 3.png" alt="" class="w-100">
+                        </div>
+                    </div>
+                    <br>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <img src="img/Objects – 4.png" alt="" class="w-100">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div style="height: 100px;"></div>
+        {{--4rd segment --}}
+        <div>
+            <div class="row">
+                <div class="col-md-12 my-4">
+                    <h1>Ui Components</h1>
+                    <br>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <img src="img/modules.png" alt="" class="w-100">
+                        </div>
+                    </div>
+                    <br>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <img src="img/modules – 1.png" alt="" class="w-100">
+                        </div>
+                    </div>
+                    <br>
+                </div>
+            </div>
+        </div>
+
+        <div style="height: 100px;"></div>
+        {{--4rd segment --}}
+        <div>
+            <div class="row">
+                <div class="col-md-12 my-4">
+                    <h1>Design system</h1>
+                    <br>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <img src="img/Color.png" alt="" class="w-100">
+                        </div>
+                    </div>
+                    <br>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <img src="img/icons.png" alt="" class="w-100">
+                        </div>
+                    </div>
+                    <br>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <img src="img/Maps.png" alt="" class="w-100">
+                        </div>
+                    </div>
+                    <br>
                 </div>
             </div>
         </div>
