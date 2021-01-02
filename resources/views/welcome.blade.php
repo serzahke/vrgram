@@ -18,11 +18,11 @@
 {{--                    <a href="#" class="btn btn-info"> Gant Chart</a>--}}
 {{--                </div>--}}
             </div>
-{{--            <div class="col-md-6">--}}
-{{--                <div class="d-flex justify-content-center">--}}
-{{--                    <img src="img/gov.svg" alt="" class="w-100">--}}
-{{--                </div>--}}
-{{--            </div>--}}
+            <div class="col-md-6">
+                <div class="d-flex justify-content-center">
+                    <img src="img/3d-cube.png" alt="" class="w-100">
+                </div>
+            </div>
         </div>
 
         <div style="height: 100px;"></div>
