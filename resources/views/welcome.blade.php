@@ -167,6 +167,24 @@
                     <br>
                     <div class="row">
                         <div class="col-md-12">
+                            <img src="img/page04.png" alt="" class="w-100">
+                        </div>
+                    </div>
+                    <br>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <img src="img/page01.png" alt="" class="w-100">
+                        </div>
+                    </div>
+                    <br>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <img src="img/page02.png" alt="" class="w-100">
+                        </div>
+                    </div>
+                    <br>
+                    <div class="row">
+                        <div class="col-md-12">
                             <img src="img/Objects.png" alt="" class="w-100">
                         </div>
                     </div>
